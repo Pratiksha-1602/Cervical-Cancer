@@ -1,4 +1,4 @@
-# Cervical-Cancer Prediction USing ML
+# Cervical-Cancer Prediction Using Machine Learning
 
 Cervical cancer constitutes a profound global health challenge, affecting a substantial number of women annually. If this cancer is not diagnosed and attended with hypervigilance, it can spread to other body parts, damage tissues, and typically deteriorate the immune system of the body. This ultimately becomes deadly and, in many cases, non-curable. This research paper looks into machine learning used to predict cervical cancer. The 5-year relative survival rate after the spread of the disease is almost 50%. Hence, detecting the tumor in advance can prevent its proliferation and consequently assist in the process of curing the disease. 
 
